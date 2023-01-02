@@ -1,0 +1,14 @@
+Name of the student : Manoj Sarkar 
+Class Roll of the student : 36 
+Stream of the student : CSE 
+Your Student ID is : CSE2236
+
+Marks obtained in Math is : 77 
+Marks obtained in Python is : 35 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 58 
+Marks obtained in English is : 71 
+
+You have got 388 in total with 64%
+Your performance is average... Work hard... You have passed the exam with grade D.
